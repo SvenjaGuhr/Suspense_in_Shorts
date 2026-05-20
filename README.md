@@ -14,7 +14,9 @@ SuspenseLens lets you load any short story sentence-by-sentence, run it through 
 1) Uncertainty-based Suspense
 2) Partial Uncertainty
 3) Desire-Frustration (No Uncertainty)
-4) Casual Reader <br>
+4) Casual Reader
+<br>
+
 The annotations are displayed as a colour-coded heatmap with colored underlines to indicate the theory. The model performance is evaluated against human gold standard annotations of 15 manually annotated short stories. 
 
 

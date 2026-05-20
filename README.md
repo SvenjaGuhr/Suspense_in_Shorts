@@ -19,7 +19,7 @@ SuspenseLens lets you load any short story sentence-by-sentence, run it through 
 
 The annotations are displayed as a colour-coded heatmap with colored underlines to indicate the theory. The model performance is evaluated against human gold standard annotations of 15 manually annotated short stories. 
 
-
+<img width="1229" height="754" alt="SuspenseLens_Screenshot_Oh_Rats" src="https://github.com/user-attachments/assets/cf8677e9-6588-4386-8103-0c8d5c4fd483" />
 
 ### References
 
